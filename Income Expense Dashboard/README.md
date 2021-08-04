@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)]
+
 # 📈 Income - Expense Dashboard
 
  This project is made up with the help of Power BI Desktop. This is basically a Finance dashboard in which i tried to most of visualisations that can help me to identify my savings and expenses.
